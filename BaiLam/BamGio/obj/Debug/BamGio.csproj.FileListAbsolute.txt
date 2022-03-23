@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\bin\Debug\BamGio.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\bin\Debug\BamGio.pdb
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.UserControl1.resources
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\BamGio\obj\Debug\BamGio.pdb

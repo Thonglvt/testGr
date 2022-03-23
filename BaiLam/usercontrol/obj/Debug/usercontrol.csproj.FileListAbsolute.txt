@@ -1,0 +1,7 @@
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\usercontrol\bin\Debug\usercontrol.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\usercontrol\bin\Debug\usercontrol.pdb
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\usercontrol\obj\Debug\usercontrol.UserControl1.resources
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\usercontrol\obj\Debug\usercontrol.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\usercontrol\obj\Debug\usercontrol.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\usercontrol\obj\Debug\usercontrol.pdb
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\usercontrol\obj\Debug\usercontrol.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\sv\bin\Debug\sv.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\sv\bin\Debug\sv.pdb
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\sv\obj\Debug\sv.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\sv\obj\Debug\sv.UserControl1.resources
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\sv\obj\Debug\sv.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\sv\obj\Debug\sv.dll
+E:\LuuDuLieuSinhVien\QUIN\BaiLam\sv\obj\Debug\sv.pdb
