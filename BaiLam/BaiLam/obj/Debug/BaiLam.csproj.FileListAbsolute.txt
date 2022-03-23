@@ -22,3 +22,6 @@ E:\LuuDuLieuSinhVien\QUIN\BaiLam\BaiLam\obj\Debug\BaiLam.Form2.resources
 E:\LuuDuLieuSinhVien\QUIN\BaiLam\BaiLam\bin\Debug\BamGio.dll
 E:\LuuDuLieuSinhVien\QUIN\BaiLam\BaiLam\bin\Debug\BamGio.pdb
 E:\LuuDuLieuSinhVien\QUIN\BaiLam\BaiLam\obj\Debug\BaiLam.Form3.resources
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Gihub\testGr\BaiLam\BaiLam\bin\Debug\BaiLam.exe.config
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Gihub\testGr\BaiLam\BaiLam\obj\Debug\BaiLam.exe
+E:\LuuDuLieuSinhVien\Bai của Lê Văn Thông\Gihub\testGr\BaiLam\BaiLam\obj\Debug\BaiLam.pdb
